@@ -1,2 +1,2 @@
 # JavaScript-Projects
-All my JavaScript projects shall be included here
+All my basic JavaScript projects shall be included here
