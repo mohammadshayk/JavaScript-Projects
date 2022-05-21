@@ -7,7 +7,9 @@ Simple Calculator:-
 
 • Used basic if/else functions to calculate the first number and second number with operator
 
+• Used .getElementById() to display the answer
 
+-----------------------------------------------------------------------------------------------
 
 Weather API:-		
 
