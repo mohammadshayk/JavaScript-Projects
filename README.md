@@ -1,11 +1,15 @@
 # JavaScript-Projects
 All my basic JavaScript projects shall be included here
 
-Simple Calculator
+Simple Calculator:-
+
+• Used basic HTML forms to gather input about first number, second number and operator
+
+• Used basic if/else functions to calculate the first number and second number with operator
 
 
-Weather API		
 
+Weather API:-		
 
 • Used basic HTML forms to gather input regarding the city required  
 
